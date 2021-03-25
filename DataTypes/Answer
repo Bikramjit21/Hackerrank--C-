@@ -1,0 +1,19 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int a;
+    long b;
+    char c;
+    float d;
+    long double e;
+    cin>>a>>b>>c>>d>>e;
+    cout<<a<<endl;
+    cout<<b<<endl;
+    cout<<c<<endl;
+    cout.precision(8);
+    cout<<d<<endl;
+    cout.precision(17);
+    cout<<e;
+    return 0;
+}
